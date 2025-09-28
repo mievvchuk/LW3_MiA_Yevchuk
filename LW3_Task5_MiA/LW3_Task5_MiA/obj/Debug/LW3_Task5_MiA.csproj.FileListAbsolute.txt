@@ -1,0 +1,14 @@
+C:\Users\Mykha\source\repos\LW3_Task5_MiA\LW3_Task5_MiA\bin\Debug\LW3_Task5_MiA.exe.config
+C:\Users\Mykha\source\repos\LW3_Task5_MiA\LW3_Task5_MiA\bin\Debug\LW3_Task5_MiA.exe
+C:\Users\Mykha\source\repos\LW3_Task5_MiA\LW3_Task5_MiA\bin\Debug\LW3_Task5_MiA.pdb
+C:\Users\Mykha\source\repos\LW3_Task5_MiA\LW3_Task5_MiA\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Mykha\source\repos\LW3_Task5_MiA\LW3_Task5_MiA\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Mykha\source\repos\LW3_Task5_MiA\LW3_Task5_MiA\obj\Debug\LW3_Task5_MiA.csproj.AssemblyReference.cache
+C:\Users\Mykha\source\repos\LW3_Task5_MiA\LW3_Task5_MiA\obj\Debug\LW3_Task5_MiA.Form1.resources
+C:\Users\Mykha\source\repos\LW3_Task5_MiA\LW3_Task5_MiA\obj\Debug\LW3_Task5_MiA.Properties.Resources.resources
+C:\Users\Mykha\source\repos\LW3_Task5_MiA\LW3_Task5_MiA\obj\Debug\LW3_Task5_MiA.csproj.GenerateResource.cache
+C:\Users\Mykha\source\repos\LW3_Task5_MiA\LW3_Task5_MiA\obj\Debug\LW3_Task5_MiA.csproj.CoreCompileInputs.cache
+C:\Users\Mykha\source\repos\LW3_Task5_MiA\LW3_Task5_MiA\obj\Debug\LW3_Task.061ECDA4.Up2Date
+C:\Users\Mykha\source\repos\LW3_Task5_MiA\LW3_Task5_MiA\obj\Debug\LW3_Task5_MiA.exe
+C:\Users\Mykha\source\repos\LW3_Task5_MiA\LW3_Task5_MiA\obj\Debug\LW3_Task5_MiA.pdb
+C:\Users\Mykha\source\repos\LW3_Task5_MiA\LW3_Task5_MiA\obj\Debug\LW3_Task5_MiA.exe.config

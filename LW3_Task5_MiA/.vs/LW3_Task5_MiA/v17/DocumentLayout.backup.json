@@ -1,0 +1,87 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Mykha\\source\\repos\\LW3_Task5_MiA\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B0FEDEFE-C150-4ED5-86A7-F32CF4CE7867}|LW3_Task5_MiA\\LW3_Task5_MiA.csproj|c:\\users\\mykha\\source\\repos\\lw3_task5_mia\\lw3_task5_mia\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B0FEDEFE-C150-4ED5-86A7-F32CF4CE7867}|LW3_Task5_MiA\\LW3_Task5_MiA.csproj|solutionrelative:lw3_task5_mia\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0FEDEFE-C150-4ED5-86A7-F32CF4CE7867}|LW3_Task5_MiA\\LW3_Task5_MiA.csproj|c:\\users\\mykha\\source\\repos\\lw3_task5_mia\\lw3_task5_mia\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0FEDEFE-C150-4ED5-86A7-F32CF4CE7867}|LW3_Task5_MiA\\LW3_Task5_MiA.csproj|solutionrelative:lw3_task5_mia\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0FEDEFE-C150-4ED5-86A7-F32CF4CE7867}|LW3_Task5_MiA\\LW3_Task5_MiA.csproj|c:\\users\\mykha\\source\\repos\\lw3_task5_mia\\lw3_task5_mia\\apiclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0FEDEFE-C150-4ED5-86A7-F32CF4CE7867}|LW3_Task5_MiA\\LW3_Task5_MiA.csproj|solutionrelative:lw3_task5_mia\\apiclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0FEDEFE-C150-4ED5-86A7-F32CF4CE7867}|LW3_Task5_MiA\\LW3_Task5_MiA.csproj|c:\\users\\mykha\\source\\repos\\lw3_task5_mia\\lw3_task5_mia\\show.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0FEDEFE-C150-4ED5-86A7-F32CF4CE7867}|LW3_Task5_MiA\\LW3_Task5_MiA.csproj|solutionrelative:lw3_task5_mia\\show.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Mykha\\source\\repos\\LW3_Task5_MiA\\LW3_Task5_MiA\\Form1.cs",
+              "RelativeDocumentMoniker": "LW3_Task5_MiA\\Form1.cs",
+              "ToolTip": "C:\\Users\\Mykha\\source\\repos\\LW3_Task5_MiA\\LW3_Task5_MiA\\Form1.cs*",
+              "RelativeToolTip": "LW3_Task5_MiA\\Form1.cs*",
+              "ViewState": "AgIAADAAAAAAAAAAAAAAAEsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-28T16:43:56.649Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ApiClient.cs",
+              "DocumentMoniker": "C:\\Users\\Mykha\\source\\repos\\LW3_Task5_MiA\\LW3_Task5_MiA\\ApiClient.cs",
+              "RelativeDocumentMoniker": "LW3_Task5_MiA\\ApiClient.cs",
+              "ToolTip": "C:\\Users\\Mykha\\source\\repos\\LW3_Task5_MiA\\LW3_Task5_MiA\\ApiClient.cs",
+              "RelativeToolTip": "LW3_Task5_MiA\\ApiClient.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-28T16:42:43.337Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Show.cs",
+              "DocumentMoniker": "C:\\Users\\Mykha\\source\\repos\\LW3_Task5_MiA\\LW3_Task5_MiA\\Show.cs",
+              "RelativeDocumentMoniker": "LW3_Task5_MiA\\Show.cs",
+              "ToolTip": "C:\\Users\\Mykha\\source\\repos\\LW3_Task5_MiA\\LW3_Task5_MiA\\Show.cs",
+              "RelativeToolTip": "LW3_Task5_MiA\\Show.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-28T16:41:53.497Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\Mykha\\source\\repos\\LW3_Task5_MiA\\LW3_Task5_MiA\\Form1.cs",
+              "RelativeDocumentMoniker": "LW3_Task5_MiA\\Form1.cs",
+              "ToolTip": "C:\\Users\\Mykha\\source\\repos\\LW3_Task5_MiA\\LW3_Task5_MiA\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]*",
+              "RelativeToolTip": "LW3_Task5_MiA\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-28T16:35:23.311Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
