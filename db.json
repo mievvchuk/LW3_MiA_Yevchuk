@@ -5,6 +5,6 @@
 ],
 "posts":[
 { "id":1,"title":"Hello REST","userId":1,"tags":["intro","rest"]},
-{ "id":2,"title":"JSON Tips","userId":2,"tags:["json"]}
+{ "id":2,"title":"JSON Tips","userId":2,"tags:["json"] }
 ]
 }
